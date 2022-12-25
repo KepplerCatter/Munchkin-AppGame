@@ -1,7 +1,7 @@
 #Архитектура
 Функции на C#, графика - через библиотеку OpenGL
 
-[Contribution guidelines for this project](lab4.png)
+![Approximate architecture](https://github.com/KepplerCatter/Munchkin-AppGame/blob/main/docs/lab4.png?raw=true)
 ##
 
 ##
